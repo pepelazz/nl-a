@@ -34,10 +34,8 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 echo -e "\033[0;32m dev git pull...\033[0m"
 git_pull
 if is_err; then return; fi
-# сразу обновляем подмодуль
 git_push
 if is_err; then return; fi
-cd ..
 
 # Build the project.
 hugo
