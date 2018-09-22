@@ -25,6 +25,9 @@ git_pull(){
     if is_err; then return; fi
     git pull
     if is_err; then return; fi
+    git stash apply
+    if is_err; then return; fi
+    git_push
 }
 
 
