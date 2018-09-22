@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46401987-6450-4e8a-a79a-18dd11195428" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/post/first.md" afterPath="$PROJECT_DIR$/content/post/first.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.new.sh" afterPath="$PROJECT_DIR$/deploy.new.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public" afterPath="$PROJECT_DIR$/public" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -534,7 +533,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1082000" />
+    <option name="totallyTimeSpent" value="1114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="24" width="1433" height="811" extended-state="6" />
