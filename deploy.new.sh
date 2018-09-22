@@ -25,8 +25,10 @@ git_pull(){
     if is_err; then return; fi
     git pull
     if is_err; then return; fi
+    echo -e "git stash apply"
     git stash apply
     if is_err; then return; fi
+    echo -e "git push after stash apply"
     git_push
 }
 
