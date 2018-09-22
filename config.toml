@@ -1,0 +1,19 @@
+baseURL = "http://edubot.pro/"
+languageCode = "en-us"
+title = "NL!A"
+theme = "nla"
+MetaDataFormat = "toml"
+Paginate = 10
+
+[taxonomies]
+    tag = "tags"
+    coursetag = "coursetags"
+
+[[menu.main]]
+    name = "БЛОГ"
+    weight = -100
+    url = "/post/"
+[[menu.main]]
+    name = "КУРСЫ"
+    weight = -100
+    url = "/course/"
