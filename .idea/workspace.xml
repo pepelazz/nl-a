@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46401987-6450-4e8a-a79a-18dd11195428" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/post/first.md" afterPath="$PROJECT_DIR$/content/post/first.md" />
-    </list>
+    <list default="true" id="46401987-6450-4e8a-a79a-18dd11195428" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -567,7 +565,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3537000" />
+    <option name="totallyTimeSpent" value="3621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="24" width="1433" height="811" extended-state="6" />
