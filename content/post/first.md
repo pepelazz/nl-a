@@ -7,11 +7,7 @@ title = "first"
 
 +++
 
-<<<<<<< Updated upstream
 my first post 11134-565
-=======
-my first post 11134
->>>>>>> Stashed changes
 
 {{< youtube 3_xMDqBxjVg >}}
 
