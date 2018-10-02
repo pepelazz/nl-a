@@ -6,14 +6,10 @@ coursetags = ["бизнес"]
 Description = ""
 
 +++
-куку123 Насрал в муку 2 раза лоролрлорло
+Данный курс нацелен на изучение ключевых 150 бизнесовых понятий
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lorem diam, sagittis vel cursus non,
-eleifend tincidunt lorem. Etiam tincidunt sagittis tortor, vel bibendum ipsum fermentum non. 
-Duis vitae ante massa. Integer ultrices, tortor facilisis dictum lacinia, ante neque pulvinar urna, 
-eget scelerisque nisi ipsum nec lectus. Praesent faucibus et sem id tincidunt. Sed ut lobortis felis. 
-Integer semper cursus tortor sit amet tincidunt. Sed vel leo urna. Proin iaculis condimentum neque 
-et vulputate. Integer neque tellus, pulvinar ac mi vehicula, tempus pellentesque elit. Nulla facilisi. 
-Donec fermentum eros libero. Mauris quam est, faucibus vel enim non, luctus eleifend nisi. 
-Nullam sed erat id augue ultrices volutpat sed quis tellus. Cras mi risus, dictum vitae pulvinar vel, 
-convallis in purus. Aenean lacinia dignissim mollis.
+Курс создан для студентов Экономического факультета НГУ, а также используется в практике обучения на Президентской программе в Центре дополнительного образования НГУ (ЦДО НГУ)
+
+<blockquote>Изучение любой темы необходимо начинать с изучения понятийного аппарата</blockquote>
+
+"Я знаю, что это такое, но сказать не могу" - курс нацелен на решение именно этой проблемы
