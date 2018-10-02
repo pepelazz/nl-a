@@ -9,11 +9,23 @@ Paginate = 10
     tag = "tags"
     coursetag = "coursetags"
 
+
 [[menu.main]]
-    name = "БЛОГ"
+    name = "ПРОДУКТЫ"
     weight = -100
+    identifier = "product"
     url = "/post/"
 [[menu.main]]
-    name = "КУРСЫ"
+    name = "EduAi"
     weight = -100
-    url = "/course/"
+    parent = "product"
+    identifier = "eduai"
+    url = "/eduai/"
+#[[menu.main]]
+#    name = "БЛОГ"
+#    weight = -100
+#    url = "/post/"
+#[[menu.main]]
+#    name = "КУРСЫ"
+#    weight = -100
+#    url = "/course/"
