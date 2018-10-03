@@ -1,0 +1,61 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<section class="page-header page-header-xs">
+    <div class="container" style="margin-top: 10px; margin-bottom: -10px">
+        <ol class="breadcrumb breadcrumb-inverse">
+            <li><a href="/">NL!A</a></li>
+            <li><a href="/blog">Блог</a></li>
+            <li class="active">{{.Title}}</li>
+        </ol>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+
+        <div class="row">
+
+            <!-- LEFT -->
+            <div class="col-md-9 col-sm-9">
+
+                <h1 class="blog-post-title">{{.Title}}</h1>
+                <ul class="blog-post-info list-inline">
+                    <li>
+                        <a href="#">
+                            <i class="fa fa-clock-o"></i>
+                            <span class="font-lato">{{ .Date.Format "2006-01-02" }}</span>
+                        </a>
+                    </li>
+                    <li>
+                        <i class="fa fa-folder-open-o"></i>
+                        {{ range .Params.blogtags }}
+                        <a class="category" href="/blogtags/{{ . | urlize }}">
+                            <span class="font-lato">{{ . }}</span>
+                        </a>
+                        {{ end }}
+                    </li>
+                </ul>
+                {{.Content}}
+
+                <div class="divider divider-dotted"><!-- divider --></div>
+
+                <!-- TAGS -->
+                {{ range $name, $items := .Site.Taxonomies.blogtags }}
+                <a class="tag" href="{{ $.Site.BaseURL }}blogtags/{{ $name | urlize | lower }}">
+                    <span class="txt">{{ $name }}</span>
+                    <span class="num">{{ len $items }}</span>
+                </a>
+                {{ end }}
+
+
+                <div class="divider"><!-- divider --></div>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+{{ partial "footer.html" . }}

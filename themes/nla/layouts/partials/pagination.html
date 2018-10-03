@@ -20,9 +20,8 @@
 <!-- If there's more than one page. -->
 {{ if gt $paginator.TotalPages 1 }}
 
-<section class="page-header page-header-xs">
-    <div class="container text-center">
-        <ul class="pagination pagination-lg pagination-simple">
+<div class="container text-left">
+        <ul class="pagination m-0">
 
             <!-- First page. -->
             <!--{{ if ne $paginator.PageNumber 1 }}-->
@@ -102,5 +101,5 @@
 
         </ul><!-- .pagination -->
     </div>
-</section>
+
 {{ end }}

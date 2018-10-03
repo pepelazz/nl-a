@@ -8,6 +8,7 @@ Paginate = 10
 [taxonomies]
     tag = "tags"
     coursetag = "coursetags"
+    blogtag = "blogtags"
 
 
 [[menu.main]]
