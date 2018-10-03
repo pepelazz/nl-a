@@ -5,76 +5,92 @@
     <div class="container" style="margin-top: 10px; margin-bottom: -10px">
         <ol class="breadcrumb breadcrumb-inverse">
             <li><a href="/">NL!A</a></li>
-            <li class="active">Блог</li>
+            <li><a href="/blog">Блог</a></li>
+            <li class="active">{{.Name}}</li>
         </ol>
-
-
     </div>
 </section>
 
-<section>
-    {{ range $name, $items := .Site.Taxonomies.blogtags }}
-    <span class="badge badge-info"><a href="{{ $.Site.BaseURL }}blogtags/{{ $name | urlize | lower }}" style="color: white">{{ $name }} &nbsp;<small>{{ len $items }}</small></a></span>
-    {{ end }}
-</section>
+<section style="padding-top: 40px">
+    <div class="container">
 
-{{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
+        <div class="row">
 
-<!-- -->
-<section class="p-0">
-    <div class="container mt-20">
+            <!-- LEFT -->
+            <div class="col-md-3 col-sm-3" style="margin-bottom: 20px">
 
+                <!-- TAGS -->
+                <!--<h3 class="hidden-xs-down fs-16 mb-20">Тэги</h3>-->
+                <div>
+                    {{ range $name, $items := .Site.Taxonomies.blogtags }}
+                    <a class="tag" href="{{ $.Site.BaseURL }}blogtags/{{ $name | urlize | lower }}">
+                        <span class="txt">{{ $name }}</span>
+                        <span class="num">{{ len $items }}</span>
+                    </a>
+                    {{ end }}
+                </div>
 
-        <!-- Portfolio Items -->
-        <div id="portfolio" class="portfolio-gutter">
+            </div>
 
-            <div class="row">
+            {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") 10 }}
+            <!-- RIGHT -->
+            <div class="col-md-9 col-sm-9">
 
                 {{ range $paginator.Pages }}
                 {{ if eq .Type "blog"}}
 
-                <div class="col-md-2 col-sm-3"><!-- item -->
-
-                    <div class="item-box">
-                        <figure>
-                            <a href="{{ .Permalink }}">
-                                <figure>
-                                    {{if .Resources.GetMatch "images/title*" }}
-                                    {{ $original1 := .Resources.GetMatch "images/title*"}}
-                                    {{ with ($original1.Fill "400x400") }}
-                                    <img class="img-fluid" src="{{.RelPermalink}}" width="400" height="400" alt="{{ .Title }}"/>
-                                    {{ end }}
-                                    {{else}}
-                                    <p>"images/title*"not found</p>
-                                    {{ end }}
-
-                                </figure>
-                            </a>
+                <div class="blog-post-item" style="margin-bottom: 30px; padding-bottom: 30px">
+                    <!-- IMAGE -->
+                    {{if .Resources.GetMatch "images/title*" }}
+                    <a href="{{ .Permalink }}">
+                        {{ $original1 := .Resources.GetMatch "images/title*"}}
+                        {{ with ($original1.Fill "1200x500") }}
+                        <figure class="mb-20">
+                            <img class="img-fluid" src="{{.RelPermalink}}" alt="{{ .Title }}"/>
                         </figure>
+                        {{ end }}
+                    </a>
+                    {{ end }}
 
-                        <div class="item-box-desc" style="padding-top: 5px!important; padding-left: 0!important;">
-                            <ul class="list-inline  m-0">
-                                {{ range .Params.blogtags }}
-                                <li><span class="badge badge-info"><a href="/blogtags/{{ . | urlize }}" style="color: white">{{ . }}</a></span></li>
-                                {{ end }}
-                            </ul>
-                        </div>
+                    <h2><a href="{{.RelPermalink}}">{{ .Title }}</a></h2>
 
-                    </div>
+                    <ul class="blog-post-info list-inline">
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-clock-o"></i>
+                                <span class="font-lato">{{ .Date.Format "2006-01-02" }}</span>
+                            </a>
+                        </li>
+                        <li>
+                            <i class="fa fa-folder-open-o"></i>
+                            {{ range .Params.blogtags }}
+                            <a class="category" href="/blogtags/{{ . | urlize }}">
+                                <span class="font-lato">{{ . }}</span>
+                            </a>
+                            {{ end }}
+                        </li>
+                    </ul>
 
-                </div><!-- /item -->
+                    <p>{{ .Params.teaser}}</p>
+
+                    <a href="{{.RelPermalink}}" class="btn btn-reveal btn-default b-0 btn-shadow-1">
+                        <i class="fa fa-plus"></i>
+                        <span>Далее</span>
+                    </a>
+
+                </div>
 
                 {{ end }}
                 {{ end }}
+
+                {{ partial "pagination.html" . }}
 
             </div>
 
         </div>
+
+
     </div>
 </section>
-
-{{ partial "pagination.html" . }}
-
-
 
 {{ partial "footer.html" . }}
