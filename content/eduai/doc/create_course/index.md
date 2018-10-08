@@ -7,19 +7,81 @@ title = "Создание курса"
 type = "eduai_doc"
 layout = "single"
 +++
-### Создание курса
+### Создание нового курса на платформе EduAi занимает считанные минуты
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti 
-atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui 
-officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
+Функция создания новых курсов доступна администраторам цифровой образовательной платформы EduAi
 
+Создание курса осуществляется в разделе <b>"Управление курсами"</b>. Для создания нового курса необходимо нажать символ плюс (круглая кнопка справа внизу экрана)
 
-{{< img name="images/incubator*" title="Архетип Жезлов. Соционика" class="article-image">}}
+<hr>
+{{< img name="images/course_create*" title="EduAi создание нового курса" class="article-image">}}
+<hr>
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti 
-atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui 
-officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
-Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, 
-omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus 
-saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, 
-ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+<hr>
+{{< img name="images/course_window*" title="EduAi создание нового курса" class="article-image">}}
+<hr>
+
+Каждый цифровой кур на платформе EduAi содержит следующие параметры:
+
+<h3>ID курса</h3>
+
+ID курса - уникальный идентификационный номер курса на латинице
+
+ID служит для навигации по курсам в базе данных и панели администратора
+
+При создании курса рекомендуется указывать "человекочитаемые" id. Композитные id из нескольких слов рекомендуется разделять символом подчерк. 
+
+Например для курса "Основы корполративных финансов" - corpfon_basics
+
+ID курса фигурирует в URL-строке курса
+
+<hr>
+{{< img name="images/url*" title="EduAi url id нового курса" class="article-image">}}
+<hr>
+
+<h3>Название</h3>
+
+Название курса, которое отражается в меню доступных курсов для пользователей
+
+<hr>
+{{< img name="images/3course*" title="EduAi название нового курса" class="article-image">}}
+<hr>
+
+<h3>Фото (аватар)</h3>
+
+Ссылка на аватар курса, который отражается в меню доступных курсов для пользователей
+
+Сама файл с аватаром размещается администратором курса на доступных ему фотосервисах (radikal.ru, vk.com и т.п.)
+
+В отдельных случаях возможно использование сереров Neuro Lab! Algorithms для размещения фото-файлов клиента
+
+<h3>Описание / материалы</h3>
+
+Раздел для размещения текстового описания курса, а также для встраивания материалов сторонних веб-сервисов (youtube, vimeo и т.п.)
+
+Для форматирования материалов возможно использовать html-разметку
+
+<hr>
+{{< img name="images/descr*" title="EduAi описание курса" class="article-image">}}
+<hr>
+{{< img name="images/html*" title="EduAi описание курса" class="article-image">}}
+<hr>
+
+<h3>Тэги курса</h3>
+
+<h3>Тэги вопросов для курса</h3>
+
+<h3>Четыре логических способа организации права доступа к курсу</h3>
+
+<h3>Условие доступа "Количество набранных баллов"</h3>
+
+<h3>Условие доступа "Пройденные курсы"</h3>
+
+<h3>Условие доступа "Группа пользователей"</h3>
+
+<h3>Условие доступа "Должности сотрудников"</h3>
+
+<h3>Блок вопросов / уровней курса</h3>
+
+<h3>Слайды с материалами курса</h3>
+

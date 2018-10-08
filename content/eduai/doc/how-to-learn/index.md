@@ -2,7 +2,7 @@
 Categories = []
 Description = ""
 Tags = []
-date = "2014-10-21T21:57:09-05:00"
+date = "2014-10-20T21:57:09-05:00"
 title = "Инструкция по обучению в системе EduAi"
 type = "eduai_doc"
 layout = "single"
