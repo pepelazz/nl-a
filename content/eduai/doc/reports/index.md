@@ -3,52 +3,134 @@ Categories = []
 Description = ""
 Tags = []
 date = "2013-09-20T21:57:09-05:00"
-title = "Просмотр отчетов"
+title = "Отчетность об обучении"
 type = "eduai_doc"
 layout = "single"
 +++
-### Просмотр отчетов
+### Система отчетов об обучении и аттестации сотрудников на платформе EduAi
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti 
-atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui 
-officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
-Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, 
-omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus 
-saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, 
-ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Цифровая платформа EduAi обладает исчерпывающим функционалом предоставления отчетности об обучении и аттестации сотрудников в различных разрезах, которая позволяет видеть, как картинку в целом по компании, так и по отдельным сотрудникам и областям знаний
 
-{{< img name="images/report*" title="Отчет по обучению" class="article-image">}}
+Все отчеты доступны к просмотру в онлайне с мобильного телефона
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti 
-atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui 
-officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
-Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, 
-omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus 
-saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, 
-ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+<hr>
+{{< img name="images/report_mobile*" title="Отчет по обучению" class="article-image">}}
+<hr>
 
-{{< img name="images/report2*" title="Отчет по экзаменам" class="article-image">}}
+Существует возможность моментальной выгрузки (экспорта) отчетов в excel-файлах
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti 
-atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui 
-officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
-Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, 
-omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus 
-saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, 
-ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+<hr>
+{{< img name="images/xls_gif*" title="Отчет по обучению" class="article-image">}}
+<hr>
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti 
-atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui 
-officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
-Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, 
-omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus 
-saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, 
-ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+<h4>Отчет по сотруднику</h4>
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti 
-atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui 
-officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
-Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, 
-omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus 
-saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, 
-ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+На странице отчета об обучении сотрудника отражается его аватарка (в случае выбора сценария регистрации через vk), доступна информация об изучаемых им курсам, а также прогресс по этим курсам
+
+<hr>
+{{< img name="images/radchenko*" title="Отчет по обучению" class="article-image">}}
+<hr>
+
+Также доступна информация о его активности за последнее время – количество ответов по дням и часам
+
+<hr>
+{{< img name="images/gif_graph*" title="Отчет по обучению" class="article-image">}}
+<hr>
+
+Отражается количество верных и неверных ответов в разрезе дней и часов
+
+<blockquote>Анализ дней и времени ответов сотрудника делает прозрачным процесс контроля его образовательной активности</blockquote>
+
+<hr>
+<h4>Динамика ответов на вопросы</h4>
+
+В разделе "Динамика ответов на вопросы" доступен обобщенный отчет об образовательной активности сотрудников по компании в целом
+
+<hr>
+{{< img name="images/report_total*" title="Отчет по обучению" class="article-image">}}
+<hr>
+
+График отражает общее количество ответов (в разрезе дней и часов), а также отражает соотношение (структуру) верных и неверных ответов
+
+<blockquote>Отчет наглядно отражает степень интенсивности процесса обучения в компании, а также его качество (соотношение верных и неверных ответов)</blockquote>
+
+Анализируя активность обучения сотрудников в разрезе часов – можно увидеть, что сотрудники изучают курсы на платформе EduAi и в нерабочее время
+
+
+Все действия сотрудников фиксируются по нулевому часовому поясу 0-GMT (Москва +3 часа, Новосибирск +4 часа и т.д.) 
+
+<hr>
+<h4>Рейтинг по курсам</h4>
+
+Отчет «Рейтинг по курсам» содержит список всех сотрудников, проранжированных по количеству набранных ими баллов на всех курсах
+
+<hr>
+{{< img name="images/dva_rating*" title="Отчет по обучению" class="article-image">}}
+<hr>
+
+Анализ отчета с "Рейтингом по курсам" позволяет увидеть общую картинку с количеством сотрудников, вовлеченных в процесс цифрового обучения на платформе EduAi
+
+Также существует возможность просмотра рейтинга по каждому курсу
+
+<hr>
+{{< img name="images/gif_rating*" title="Отчет по обучению" class="article-image">}}
+<hr>
+
+Для выбора рейтинга сотрудников интересующего курса необходимо ввести id курса (ввести первые 3 символа, далее платформа EduAi предложит выбор)
+
+Id курса можно узнать в разделе редактирования курса, либо же на странице самого курса в адресной строке браузера (последнее слово url)
+
+<hr>
+{{< img name="images/url_course*" title="Отчет по обучению" class="article-image">}}
+<hr>
+
+Администраторы платформы EduAi видят рейтинг со всеми сотрудниками, вовлеченными в процесс обучения
+
+<blockquote>Сотрудники также видят свое место в рейтинге (курса, системы курсов в целом), а также коллег, находящихся в рейтинге рядом +/- 3 позиции</blockquote>
+
+<hr>
+{{< img name="images/rating_dict*" title="Отчет по обучению" class="article-image">}}
+<hr>
+
+Предоставление ограниченной информации о своем месте в рейтинге (не виден рейтинг в целом) создает дополнительную мотивацию сотруднику к обучению – повышает интерес к набиранию баллов (ответить дополнительно на пару-тройку вопросов – намайнить дополнительных баллов, подняться в рейтинге, обогнать коллегу)
+
+<blockquote>Предоставление сотруднику моментальной обратной связи в процессе обучения (+ балл за ответ; повышение в рейтинге в режиме реального времени) приводит к вырабатыванию дополнительных нейромедиаторов (серотонин, дофамин), что в свою очередь повышает степень удовольствия и радости сотрудника от процесса обучения</blockquote>
+
+Использования рейтинга сотрудников запускает в компании дополнительный механизм соц. соревнования
+
+Ведение рейтинга сотрудников является одним из элементов системы мотивации образовательной платформы EduAi
+
+<hr>
+<h4>Статистика по курсам</h4>
+
+Отчет отражает все курсы, построенные в системе EduAi с обобщенной статистикой обучения по каждому курсу
+
+<hr>
+{{< img name="images/all_report*" title="Отчет по обучению" class="article-image">}}
+<hr>
+
+
+Отражается количество сотрудников, закончивших курс, а также общее количество сотрудников вовлеченных в обучение данного курса. Соотношение данных показателей позволяет увидеть конверсию по данному курсу (закончили / начали), равно как и степень изученности материалов данного курса (статистически)
+
+<b>«Средний уровень»</b> - среднее количество баллов, набранных сотрудниками на данном курсе
+
+<b>«Количество ответов»</b> - общее количество ответов, которые дали обучающиеся сотрудники на заданные вопросы по материалам курса
+
+<hr>
+Отчет по одному экзамену – лента попыток
+
+Отчет график по дням / часам
+
+Отчет по офисам
+
+Эксель ответы пользователя
+
+Отчет по экзамену – компетенции
+
+Отчет – общий рейтинг
+
+Отчет по экзаменам (все экзамены)
+
+Отчет – сводная таблица
+
+РЕЗЮМЕ – все под колпаком. Удаленно – вся Россия / планета
