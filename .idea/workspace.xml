@@ -4,8 +4,7 @@
     <list default="true" id="46401987-6450-4e8a-a79a-18dd11195428" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public" afterPath="$PROJECT_DIR$/public" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/eduai/doc/create_course/index.md" afterPath="$PROJECT_DIR$/content/eduai/doc/create_course/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/инструкция.txt" afterPath="$PROJECT_DIR$/инструкция.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/course/cooking_pasta_story/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -92,15 +91,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/eduai/doc/edit_qstn/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deploy.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -109,8 +105,8 @@
         <entry file="file://$PROJECT_DIR$/content/eduai/doc/create_course/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="85" />
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -177,7 +173,6 @@
         <option value="$PROJECT_DIR$/themes/nla/layouts/eduai/eduai.html" />
         <option value="$PROJECT_DIR$/content/eduai/doc/index.md" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/eduai_doc/single.html" />
-        <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/content/eduai/doc/edit_qstn/index.md" />
         <option value="$PROJECT_DIR$/content/eduai/_index.md" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/eduai_doc/eduai_doc.html" />
@@ -199,6 +194,7 @@
         <option value="$PROJECT_DIR$/инструкция.txt" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/shortcodes/img.html" />
         <option value="$PROJECT_DIR$/content/eduai/doc/create_course/index.md" />
+        <option value="$PROJECT_DIR$/deploy.sh" />
       </list>
     </option>
   </component>
@@ -537,66 +533,6 @@
               <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="nla_site" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="eduai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="eduai" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="nla" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="nla" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="nla" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="nla" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="nla" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -745,12 +681,12 @@
       <workItem from="1539094495137" duration="4001000" />
       <workItem from="1539326318142" duration="2138000" />
       <workItem from="1539368142945" duration="725000" />
-      <workItem from="1540129398773" duration="22000" />
+      <workItem from="1540129398773" duration="262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37987000" />
+    <option name="totallyTimeSpent" value="38227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -865,13 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="31" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="51" column="5" lean-forward="false" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1074,8 +1003,8 @@
     <entry file="file://$PROJECT_DIR$/content/eduai/doc/create_course/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="85" />
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1142,6 +1071,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
