@@ -13,9 +13,13 @@ layout = "single"
 
 Создание курса осуществляется в разделе <b>"Управление курсами"</b>. Для создания нового курса необходимо нажать символ плюс (круглая кнопка справа внизу экрана)
 
+<<<<<<< Updated upstream
 <hr>
 {{< img name="images/course_create*" title="EduAi создание нового курса" class="article-image">}}
 <hr>
+=======
+{{< img name="images/incubator*" title="Подпись к фото которая попадает в тег alt">}}
+>>>>>>> Stashed changes
 
 <hr>
 {{< img name="images/course_window*" title="EduAi создание нового курса" class="article-image">}}
