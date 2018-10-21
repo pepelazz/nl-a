@@ -1,0 +1,48 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<section class="page-header page-header-xs">
+    <div class="container" style="margin-top: 10px; margin-bottom: -10px">
+        <ol class="breadcrumb breadcrumb-inverse">
+            <li><a href="/">NL!A</a></li>
+            <li class="active">Клиенты</li>
+        </ol>
+    </div>
+</section>
+<!-- /PAGE HEADER -->
+
+<!-- -->
+<section class="p-0">
+    <div class="container mt-20">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 order-sm-1 order-md-1 order-lg-1">
+                <div class="side-nav mb-60">
+
+                    <div class="side-nav-head">
+                        <button class="fa fa-bars"></button>
+                        <!--<h4>ДОКУМЕНТАЦИЯ</h4>-->
+                    </div>
+
+                    <ul class="list-group list-group-bordered list-group-noicon uppercase">
+                        {{ $pageClient := .Params.client }}
+                        {{ range .Site.Pages }}
+                        {{ if and (eq .Type "client_page") (eq .Layout "single") (eq .Params.client $pageClient)}}
+                        <li class="list-group-item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                        {{ end }}
+                        {{ end }}
+                    </ul>
+
+                </div>
+            </div>
+            <div class="col-lg-9 col-md-9 order-sm-2 order-md-2 order-lg-2">
+                <ul class="list-group">
+                    <p class="lead">{{ .Title }}</p>
+                </ul>
+                {{.Content}}
+            </div>
+        </div>
+    </div>
+</section>
+
+
+{{ partial "footer.html" . }}
