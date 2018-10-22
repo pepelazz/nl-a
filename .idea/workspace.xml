@@ -2,61 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46401987-6450-4e8a-a79a-18dd11195428" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/course_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/exam.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/first_qstn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/grade_selection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/last_step.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/location_selection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/main_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/main_screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/ohrana_truda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/pics.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/rating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/registration_form.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/right_answer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/sklad.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/sklad_gp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/slide.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/wait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/wrong_answer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/images/xss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/course_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/exam.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/first_qstn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/grade_selection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/last_step.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/location_selection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/main_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/main_screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/ohrana_truda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/pics.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/rating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/registration_form.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/right_answer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/sklad.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/sklad_gp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/slide.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/wait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/wrong_answer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/images/xss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/_index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/_index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/client/virtex/how-to-learn/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/nla/layouts/client/client.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/nla/layouts/client_page/client_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/nla/layouts/client_page/single.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public" afterPath="$PROJECT_DIR$/public" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/education_concepts/index.md" afterPath="$PROJECT_DIR$/content/blog/education_concepts/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/client/shashlikoff/_index.md" afterPath="$PROJECT_DIR$/content/client/shashlikoff/_index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/content/eduai/doc/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
+              <first_editor relative-caret-position="90">
                 <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="20" />
                 <folding />
               </first_editor>
@@ -94,12 +42,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/client/virtex/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="165">
-                <caret line="11" column="80" lean-forward="false" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+                <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -107,12 +55,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_index.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_index.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/client/shashlikoff/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="86" lean-forward="false" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="86" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -123,7 +71,7 @@
       <file leaf-file-name="client_page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/nla/layouts/client_page/client_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
+            <state relative-caret-position="600">
               <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
               <folding />
             </state>
@@ -135,7 +83,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="255">
-                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="91" />
+                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -231,8 +179,8 @@
         <option value="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/index.md" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/client_page/single.html" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/client_page/client_page.html" />
-        <option value="$PROJECT_DIR$/content/client/shashlikoff/_index.md" />
         <option value="$PROJECT_DIR$/content/client/virtex/_index.md" />
+        <option value="$PROJECT_DIR$/content/client/shashlikoff/_index.md" />
       </list>
     </option>
   </component>
@@ -561,9 +509,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -632,7 +577,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -776,12 +724,13 @@
       <workItem from="1539094495137" duration="4001000" />
       <workItem from="1539326318142" duration="2138000" />
       <workItem from="1539368142945" duration="725000" />
-      <workItem from="1540129398773" duration="3536000" />
+      <workItem from="1540129398773" duration="4267000" />
+      <workItem from="1540202991064" duration="99000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41501000" />
+    <option name="totallyTimeSpent" value="42331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -802,7 +751,6 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -815,6 +763,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1014,29 +963,17 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/eduai/doc/edit_qstn/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/eduai/doc/edit_qstn/index.md" />
     <entry file="file://$PROJECT_DIR$/content/eduai/doc/create_course/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="300">
             <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1060,7 +997,7 @@
     <entry file="file://$PROJECT_DIR$/content/eduai/doc/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
+          <first_editor relative-caret-position="90">
             <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="20" />
             <folding />
           </first_editor>
@@ -1080,7 +1017,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1091,7 +1027,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1102,7 +1037,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="135">
             <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1112,7 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1121,7 +1054,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="120">
             <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1131,7 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1150,7 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1158,7 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="40" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1166,7 +1095,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="255">
-            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="91" />
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1175,20 +1104,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/nla/layouts/client_page/client_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
+        <state relative-caret-position="600">
           <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/client/shashlikoff/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1196,7 +1114,18 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="165">
-            <caret line="11" column="80" lean-forward="false" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+            <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/client/shashlikoff/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="86" lean-forward="false" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="86" />
             <folding />
           </first_editor>
           <second_editor />
