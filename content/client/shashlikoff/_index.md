@@ -11,8 +11,4 @@ client="shashlikoff"
 
 <img src='https://franshiza.ru/files/ninajnr/07.04/.jpg'/> 
 
-Привет
-
-Почему-то текст не отражается на странице
-
-Проверка
+Контент
