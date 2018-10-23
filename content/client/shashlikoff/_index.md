@@ -9,4 +9,4 @@ layout = "client_page"
 client="shashlikoff"
 +++
 
-<img src='https://franshiza.ru/files/ninajnr/07.04/.jpg'/> 
+<a href="/client/shashlikoff/how-to-learn/"> <img src='https://franshiza.ru/files/ninajnr/07.04/.jpg'/></a>
