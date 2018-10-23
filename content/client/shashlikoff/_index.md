@@ -10,5 +10,3 @@ client="shashlikoff"
 +++
 
 <img src='https://franshiza.ru/files/ninajnr/07.04/.jpg'/> 
-
-Контент
