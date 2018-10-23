@@ -33,7 +33,7 @@ client="shashlikoff"
 При условии, что сотрудник вошел в свой профиль в ВКонтакте, при входе на сайт с цифровым обучением сотруднику будет доступна опция "Войти через ВКонтакте"
 
 <hr>
-{{< img name="images/vklogin*" title="EduAi login" class="article-image">}}
+{{< img name="images/vklogin*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников login" class="article-image">}}
 <hr>
 
 После нажатия кнопки также необходимо будет дать согласие получение сообщений от системы
@@ -41,7 +41,7 @@ client="shashlikoff"
 Далее необходимо указать фамилию и имя (на русском языке)
 
 <hr>
-{{< img name="images/sregister*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/sregister*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 Указать <b>адрес бара </b> гриль-бара "Шашлыкоff"
@@ -49,13 +49,13 @@ client="shashlikoff"
 Необходимо ввести первые буквы название улицы, на которой расположен гриль-бар и выбрать из предложенного списка
 
 <hr>
-{{< img name="images/sadress*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/sadress*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 Указать свою <b>должность</b> - выбрать из выпадающего списка
 
 <hr>
-{{< img name="images/sgrade*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/sgrade*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 После того как убедились в корректности указанных данных необходимо нажать кнопку <b>"Сохранить"</b>
@@ -63,7 +63,7 @@ client="shashlikoff"
 После регистрации в системе будут доступны цифровые курсы для изучения
 
 <hr>
-{{< img name="images/1screen*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/1screen*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 В верхнем левом углу располагается иконка вызова меню
@@ -71,13 +71,13 @@ client="shashlikoff"
 <h1>3. Доступные курсы</h1>
 
 <hr>
-{{< img name="images/smainmenu*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/smainmenu*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 При нажатии на раздел "Курсы" загрузятся доступные курсы для прохождения
 
 <hr>
-{{< img name="images/shkursi*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/shkursi*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 В верху экрана располагаются кнопки-тэги с тематикой доступных курсов
@@ -88,21 +88,21 @@ client="shashlikoff"
 
 Каждый курс содержит материалы для изучения	(слайды и(или) видео)
 <hr>
-{{< img name="images/sbook*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/sbook*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 Ключевые курсы содержат диалоговые тренажеры и экзамены для аттестации по курсу
 
 <blockquote>Пример: Курс "Закуски. Меню #20. Весна-Лето" содержит пять уровней с тренажерами и финальным уровнем с аттестационным экзаменом</blockquote>
 <hr>
-{{< img name="images/zakuski*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/zakuski*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 Для прохождения тренажера необходимо начать кнопку "Начать"
 
 При запуске тренажера будет задан вопрос по теме курса
 <hr>
-{{< img name="images/salatqstn*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/salatqstn*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 Время ответа ограничено 60 секундами (движение голубого индикатора над текстом вопроса отражает лимит времени ответа на вопрос)
@@ -112,7 +112,7 @@ client="shashlikoff"
 В случае верного ответа в рамках курса (и всей системы курсов в целом) <b>будет начислен балл</b> (+0,1 балл, в данном примере) 
 
 <hr>
-{{< img name="images/rightanswer*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/rightanswer*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 Для прохождения одного уровня тренажера необходимо набрать количество баллов, указанных на экране вопроса (справа под текстом вопроса; 2 балла в примере выше)
@@ -120,7 +120,7 @@ client="shashlikoff"
 В случае некорректного ответа на вопрос количество баллов уменьшится (-0,1 балл, как правило); некорректный ответ сотрудника будет выделен красным цветом, корректный ответ на вопрос - зеленым
 
 <hr>
-{{< img name="images/wronganswer*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/wronganswer*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 <blockquote>Вопросы могут повторяться. Повторение - мать учения</blockquote>
@@ -142,13 +142,13 @@ client="shashlikoff"
 Количество вопросов, а также оставшееся на сдачу экзамена время отмечаются на экране вопроса
 
 <hr>
-{{< img name="images/exam*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/exam*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 В режиме экзамена существует возможность пропустить вопрос; этот вопрос будет задан позже в течение эказмена
 
 <hr>
-{{< img name="images/next*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/next*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 Экзамен считается сданным, если сотрудник дал 80% и более корректных ответов
@@ -162,13 +162,13 @@ client="shashlikoff"
 На основании набранных баллов ведется общий рейтинг образовательной активности сотрудников сети гриль-баров "Шашлыкоff"
 
 <hr>
-{{< img name="images/srating*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/srating*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 Увидеть свою позицию в рейтинге можно на странице доступа к курсам (верхняя кнопка "Рейтинг")
 
 <hr>
-{{< img name="images/shkursi*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/shkursi*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 <h1>7. Корректная работа браузера пользователя</h1>
@@ -180,7 +180,7 @@ client="shashlikoff"
 <blockquote>Распознать случай заражения браузера пользователя можно по подмене графических элементов на экране задаваемого вопроса</blockquote>
 
 <hr>
-{{< img name="images/xss*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/xss*" title="NL!A EduAi гриль-бары Шашлыкоff обучение сотрудников" class="article-image">}}
 <hr>
 
 Иконка вызова меню (три полоски слева вверху экрана) заменяется в зараженном браузере пользователя словом "меню"

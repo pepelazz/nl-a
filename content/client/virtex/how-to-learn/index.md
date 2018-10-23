@@ -15,7 +15,7 @@ client="virtex"
 Цифровые курсы для обучения сотрудников АО "Виртекс" расположены на образовательной платформе EduAi и доступны по адресу https://virtex-food.eduai.pro/
 
 <hr>
-{{< img name="images/main_screen*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/main_screen*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Обучение осуществляется через смартфон, планшет или компьютер
@@ -41,37 +41,37 @@ client="virtex"
 Далее необходимо указать фамилию и имя (на русском языке)
 
 <hr>
-{{< img name="images/registration_form*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/registration_form*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Указать свое <b>место работы</b> в АО "Виртекс"
 
 <hr>
-{{< img name="images/location_selection*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/location_selection*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Указать свою <b>должность</b>
 
 <hr>
-{{< img name="images/grade_selection*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/grade_selection*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 После того как убедились в корректности указанных данных необходимо нажать кнопку <b>"Сохранить"</b>
 
 <hr>
-{{< img name="images/last_step*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/last_step*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Заявка будет отправлена на рассмотрение ответственным сотрудником АО "Виртекс"
 
 <hr>
-{{< img name="images/wait*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/wait*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 После авторизации заявки будут доступны цифровые курсы для изучения
 
 <hr>
-{{< img name="images/main_screen*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/main_screen*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 В верхнем левом углу располагается иконка вызова меню
@@ -79,13 +79,13 @@ client="virtex"
 <h1>3. Доступные курсы</h1>
 
 <hr>
-{{< img name="images/main_menu*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/main_menu*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 При нажатии на раздел "Курсы" загрузятся доступные курсы для прохождения
 
 <hr>
-{{< img name="images/course_list*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/course_list*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 В верху экрана располагаются кнопки-тэги с тематикой доступных курсов
@@ -96,25 +96,25 @@ client="virtex"
 
 Каждый курс содержит материалы для изучения	(слайды и(или) видео)
 <hr>
-{{< img name="images/sklad_gp*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/sklad_gp*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 <hr>
-{{< img name="images/slide*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/slide*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Ключевые курсы содержат диалоговые тренажеры и экзамены для аттестации по курсу
 
 Пример: Курс "Охрана труда" содержит три уровня с тренажерами и финальным уровнем с аттестационным экзаменом
 <hr>
-{{< img name="images/ohrana_truda*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/ohrana_truda*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Для прохождения тренажера необходимо начать кнопку "Начать"
 
 При запуске тренажера будет задан вопрос по теме курса
 <hr>
-{{< img name="images/first_qstn*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/first_qstn*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Время ответа ограничено 60 секундами (движение голубого индикатора над текстом вопроса отражает лимит времени ответа на вопрос)
@@ -124,7 +124,7 @@ client="virtex"
 В случае верного ответа в рамках курса (и всей системы курсов в целом) <b>будет начислен балл</b> (+0,1 балл, в данном примере) 
 
 <hr>
-{{< img name="images/right_answer*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/right_answer*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Для прохождения одного уровня тренажера необходимо набрать количество баллов, указанных на экране вопроса (справа под текстом вопроса; 2 балла в примере выше)
@@ -132,7 +132,7 @@ client="virtex"
 В случае некорректного ответа на вопрос количество баллов уменьшится (-0,1 балл, как правило); некорректный ответ сотрудника будет выделен красным цветом, корректный ответ на вопрос - зеленым
 
 <hr>
-{{< img name="images/wrong_answer*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/wrong_answer*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 <blockquote>Вопросы могут повторяться. Повторение - мать учения</blockquote>
@@ -146,7 +146,7 @@ client="virtex"
 <blockquote>Существуют вопросы, в которых необходимо выбрать верную картинку-ответ </blockquote>
 
 <hr>
-{{< img name="images/sklad*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/sklad*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 В данном типе вопросов необходимо пролистывать картинки - варианты ответов. Чтобы отметить верный ответ необходимо кликнуть на круг на картинке (слева вверху)
@@ -162,13 +162,13 @@ client="virtex"
 Количество вопросов, а также оставшееся на сдачу экзамена время отмечаются на экране вопроса
 
 <hr>
-{{< img name="images/exam*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/exam*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 В режиме экзамена существует возможность пропустить вопрос; этот вопрос будет задан позже в течение эказмена
 
 <hr>
-{{< img name="images/next*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/next*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Экзамен считается сданным, если сотрудник дал 80% и более корректных ответов
@@ -182,13 +182,13 @@ client="virtex"
 На основании набранных баллов ведется общий рейтинг образовательной активности сотрудников АО "Виртекс"
 
 <hr>
-{{< img name="images/rating*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/rating*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Увидеть свою позицию в рейтинге можно на странице доступа к курсам (верхняя кнопка "Рейтинг")
 
 <hr>
-{{< img name="images/course_list*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/course_list*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 <h1>7. Корректная работа браузера пользователя</h1>
@@ -200,7 +200,7 @@ client="virtex"
 <blockquote>Распознать случай заражения браузера пользователя можно по подмене графических элементов на экране задаваемого вопроса</blockquote>
 
 <hr>
-{{< img name="images/xss*" title="EduAi Тотальный диктант" class="article-image">}}
+{{< img name="images/xss*" title="NL!A EduAi Virtex-food Виртекс фуд обучение сотрудников" class="article-image">}}
 <hr>
 
 Иконка вызова меню (три полоски слева вверху экрана) заменяется в зараженном браузере пользователя словом "меню"
