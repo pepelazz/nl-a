@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="46401987-6450-4e8a-a79a-18dd11195428" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public" afterPath="$PROJECT_DIR$/public" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/config.toml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,11 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
               <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deploy.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="50" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -178,7 +186,6 @@
         <option value="$PROJECT_DIR$/инструкция.txt" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/shortcodes/img.html" />
         <option value="$PROJECT_DIR$/content/eduai/doc/create_course/index.md" />
-        <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/content/blog/education_concepts/index.md" />
         <option value="$PROJECT_DIR$/content/client/virtex/how-to-learn/index.md" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/client/eduai.html" />
@@ -188,6 +195,7 @@
         <option value="$PROJECT_DIR$/content/client/shashlikoff/_index.md" />
         <option value="$PROJECT_DIR$/content/client/shashlikoff/how-to-learn/index.md" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/deploy.sh" />
       </list>
     </option>
   </component>
@@ -741,12 +749,12 @@
       <workItem from="1539368142945" duration="725000" />
       <workItem from="1540129398773" duration="4267000" />
       <workItem from="1540202991064" duration="1401000" />
-      <workItem from="1540706706843" duration="178000" />
+      <workItem from="1540706706843" duration="368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43811000" />
+    <option name="totallyTimeSpent" value="44001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -1037,13 +1045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/client/virtex/how-to-learn/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1147,6 +1148,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="50" selection-end-column="9" />
           <folding />
         </state>
       </provider>
