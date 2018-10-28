@@ -8,4 +8,6 @@ teaser = "Технический директор Neuro Lab! Algorithms - Але
 
 +++
 
+Виде с выступлением
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HdI_dcOOck" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
