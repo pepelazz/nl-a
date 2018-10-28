@@ -33,6 +33,12 @@ git_pull(){
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+cd public
+git fetch --all
+git reset --hard origin/master
+git pull
+cd ..
+
 # обновление из git основного проекта
 echo -e "\033[0;32m dev git pull...\033[0m"
 git_pull
@@ -46,9 +52,6 @@ hugo
 cd public
 # отправляем сгенерированный проект в удаленный репозиторий
 echo -e "\033[0;32m dev git push...\033[0m"
-#git fetch --all
-#git reset --hard origin/master
-#git pull
 git_push
 if is_err; then return; fi
 

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="46401987-6450-4e8a-a79a-18dd11195428" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public" afterPath="$PROJECT_DIR$/public" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/content/eduai/doc/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
+              <first_editor relative-caret-position="90">
                 <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="20" />
                 <folding />
               </first_editor>
@@ -79,7 +81,7 @@
       <file leaf-file-name="navbar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/nla/layouts/partials/navbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="300">
               <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="43" />
               <folding />
             </state>
@@ -99,8 +101,8 @@
       <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="50" selection-end-column="9" />
+            <state relative-caret-position="427">
+              <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -601,8 +603,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -749,12 +751,13 @@
       <workItem from="1539368142945" duration="725000" />
       <workItem from="1540129398773" duration="4267000" />
       <workItem from="1540202991064" duration="1401000" />
-      <workItem from="1540706706843" duration="368000" />
+      <workItem from="1540706706843" duration="756000" />
+      <workItem from="1540718214306" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44001000" />
+    <option name="totallyTimeSpent" value="44452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -883,11 +886,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/business_terms/images/title.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/business_terms/images/title.jpg" />
     <entry file="file://$PROJECT_DIR$/content/blog/003_about/index.md" />
     <entry file="file://$PROJECT_DIR$/content/blog/004_about/index.md" />
     <entry file="file://$PROJECT_DIR$/themes/nla/layouts/partials/pagination.html">
@@ -1000,7 +999,7 @@
     <entry file="file://$PROJECT_DIR$/content/eduai/doc/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
+          <first_editor relative-caret-position="90">
             <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="20" />
             <folding />
           </first_editor>
@@ -1062,17 +1061,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/business_terms/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/business_terms/index.md" />
     <entry file="file://$PROJECT_DIR$/themes/nla/layouts/client/client.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1121,7 +1110,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1138,7 +1126,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/nla/layouts/partials/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="300">
           <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="43" />
           <folding />
         </state>
@@ -1154,8 +1142,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="50" selection-end-column="9" />
+        <state relative-caret-position="427">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding />
         </state>
       </provider>
