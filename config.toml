@@ -13,7 +13,7 @@ Paginate = 10
 
 [[menu.main]]
     name = "ПРОДУКТЫ"
-    weight = -100
+    weight = -10
     identifier = "product"
     url = "/post/"
 [[menu.main]]
@@ -24,8 +24,12 @@ Paginate = 10
     url = "/eduai/"
 [[menu.main]]
     name = "БЛОГ"
-    weight = -100
+    weight = 10
     url = "/blog/"
+[[menu.main]]
+    name = "КОМПАНИЯ"
+    weight = 12
+    url = "/company/"
 #[[menu.main]]
 #    name = "КУРСЫ"
 #    weight = -100
