@@ -1,5 +1,12 @@
 echo -e "Deploying updates to GitHub..."
 @echo off
+
+cd public
+git fetch --all
+git reset --hard origin/master
+git pull
+cd ..
+
 git stash
 git checkout master
 git pull
