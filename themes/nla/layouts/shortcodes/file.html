@@ -1,0 +1,8 @@
+{{ $file := $.Page.Resources.GetMatch (.Get "name") }}
+
+{{ if $file }}
+<a href="{{ $file.RelPermalink }}" download> {{.Get "text"}}</a>
+{{ else }}
+<pre>image '{{.Get "name"}}' not found!!!</pre>
+{{ end }}
+
