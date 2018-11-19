@@ -7,3 +7,4 @@ title="doc_list_page"
 type = "eduquiz_doc"
 layout = "eduquiz_doc"
 +++
+

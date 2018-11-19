@@ -2,14 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46401987-6450-4e8a-a79a-18dd11195428" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/qstn_template.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/nla/layouts/eduquiz/eduquiz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/eduquiz_doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/nla/layouts/eduquiz_price/eduquiz_price.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/nla/layouts/shortcodes/file.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/eduquiz/price/_index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/nla/layouts/eduquiz/eduquiz.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/nla/layouts/eduquiz_price/eduquiz_price.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/_index.md" afterPath="$PROJECT_DIR$/content/eduquiz/_index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/1.jpg" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/2.jpg" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/3.jpg" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/3options.png" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/3options.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/4.jpg" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/5.jpg" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/creategif.gif" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/creategif.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/flagdemo.gif" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/flagdemo.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/flagxls.png" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/flagxls.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/pics.pptx" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/pics.pptx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/qstn_template.xlsx" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/qstn_template.xlsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/qstnedit.png" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/qstnedit.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/rating.png" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/rating.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/files/testmanage.gif" afterPath="$PROJECT_DIR$/content/eduquiz/concept/files/testmanage.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/eduquiz/doc/concept/index.md" afterPath="$PROJECT_DIR$/content/eduquiz/concept/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public" afterPath="$PROJECT_DIR$/public" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/eduquiz_doc.html" afterPath="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/eduquiz_doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/single.html" afterPath="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/single.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +39,8 @@
       <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+            <state relative-caret-position="120">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -41,35 +56,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/eduquiz/doc/concept/index.md">
+      <file leaf-file-name="eduquiz_doc.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/eduquiz_doc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deploy.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="39" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/eduquiz/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eduquiz_doc.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/eduquiz_doc.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="40" column="87" lean-forward="false" selection-start-line="40" selection-start-column="87" selection-end-line="40" selection-end-column="87" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eduquiz_price.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz_price/eduquiz_price.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -107,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/eduai/_index.md" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/eduai_doc/eduai_doc.html" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/index.html" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/partials/navbar.html" />
@@ -152,12 +166,13 @@
         <option value="$PROJECT_DIR$/content/eduquiz/price/_index.md" />
         <option value="$PROJECT_DIR$/content/eduquiz/doc/_index.md" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/eduquiz/eduai.html" />
-        <option value="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/single.html" />
-        <option value="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/eduquiz_doc.html" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/eduquiz_price/eduquiz_price.html" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/eduquiz/eduquiz.html" />
         <option value="$PROJECT_DIR$/themes/nla/layouts/shortcodes/file.html" />
         <option value="$PROJECT_DIR$/content/eduquiz/doc/concept/index.md" />
+        <option value="$PROJECT_DIR$/content/eduquiz/_index.md" />
+        <option value="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/single.html" />
+        <option value="$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/eduquiz_doc.html" />
       </list>
     </option>
   </component>
@@ -487,9 +502,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -513,24 +527,7 @@
               <item name="nla_site" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="eduquiz" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="eduquiz" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
               <item name="concept" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nla_site" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="eduquiz" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-              <item name="concept" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nla_site" type="b2602c69:ProjectViewProjectNode" />
@@ -556,12 +553,13 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="nla" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="shortcodes" type="462c0819:PsiDirectoryNode" />
+              <item name="eduquiz_doc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -578,19 +576,19 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/eduquiz/doc/concept/files" />
-      <recent name="$PROJECT_DIR$/themes/nla/layouts/eduai_doc" />
-      <recent name="$PROJECT_DIR$/content/eduai" />
-      <recent name="$PROJECT_DIR$/content/eduai/doc/create_course" />
-      <recent name="$PROJECT_DIR$/themes/nla/layouts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/eduquiz/doc/concept" />
       <recent name="$PROJECT_DIR$/themes/nla/layouts/shortcodes" />
       <recent name="$PROJECT_DIR$/themes/nla/layouts" />
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/themes/nla/layouts/eduai" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/eduquiz" />
+      <recent name="$PROJECT_DIR$/content/eduquiz/doc/concept/files" />
+      <recent name="$PROJECT_DIR$/themes/nla/layouts/eduai_doc" />
+      <recent name="$PROJECT_DIR$/content/eduai" />
+      <recent name="$PROJECT_DIR$/content/eduai/doc/create_course" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -717,12 +715,15 @@
       <workItem from="1541069465525" duration="1970000" />
       <workItem from="1541132896935" duration="265000" />
       <workItem from="1541152716064" duration="38000" />
-      <workItem from="1541425734562" duration="2264000" />
+      <workItem from="1541425734562" duration="2982000" />
+      <workItem from="1541573209853" duration="537000" />
+      <workItem from="1541589113175" duration="553000" />
+      <workItem from="1542624532989" duration="277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51954000" />
+    <option name="totallyTimeSpent" value="54039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -929,13 +930,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/nla/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -966,7 +960,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -976,7 +969,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -986,7 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="90" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -997,7 +988,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="20" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1008,7 +998,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="105">
             <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1018,7 +1007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="8" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,7 +1015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1035,7 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,7 +1036,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1058,7 +1043,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,52 +1051,46 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz/eduquiz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/eduquiz/doc/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/eduquiz_doc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="40" column="87" lean-forward="false" selection-start-line="40" selection-start-column="87" selection-end-line="40" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz_price/eduquiz_price.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="39" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/eduquiz/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/eduquiz/concept/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="195">
+            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1124,14 +1102,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/eduquiz/doc/concept/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz/eduquiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nla/layouts/eduquiz_doc/eduquiz_doc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
