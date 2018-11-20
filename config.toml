@@ -23,6 +23,12 @@ Paginate = 10
     identifier = "eduai"
     url = "/eduai/"
 [[menu.main]]
+    name = "EduQuiz"
+    weight = -100
+    parent = "product"
+    identifier = "eduquiz"
+    url = "/eduquiz/"
+[[menu.main]]
     name = "БЛОГ"
     weight = 10
     url = "/blog/"
