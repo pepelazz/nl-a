@@ -67,11 +67,13 @@ teaser = "Дмитрий Марков (CEO, Neuro Lab! Algorithms) провел 
 
 <hr>
 {{< img name="images/4*" title="NL!A EduQuiz ЭФ НГУ" class="article-image">}}
-<hr>
+
 
 Все студенты остались очень довольны работой через сервис <a href="https://eduquiz.ru/" target="_blank">EduQuiz</a> на занятии
 
-<hr>
-
+<br><br><br><hr>
 p.s. Сообщество пользователей сервиса <a href="https://vk.com/eduquiz" target="_blank">EduQuiz в vk.com</a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/67NGB1TVifY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8NIGQFgN2_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
