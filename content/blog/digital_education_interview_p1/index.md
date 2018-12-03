@@ -11,6 +11,7 @@ teaser = "Первая часть интервью с CEO Neuro Lab! Algorithms 
 
 Первая часть интервью с CEO Neuro Lab! Algorithms Дмитрием Марковым о теории и практике применения современных цифровых технологий в образовании:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 <hr>
 {{< img name="images/avatar*" title="NL!A EduAi CEO Дмитрий Марков" class="article-image">}}
@@ -19,6 +20,8 @@ teaser = "Первая часть интервью с CEO Neuro Lab! Algorithms 
 #### - Недавно Neuro Lab! Algortihms запустили бесплатный сервис <a href="https://eduquiz.ru" target="_blank">EduQuiz</a> для организации тестирования учеников через сотовые телефоны. Вопрос в лоб: а людям нужен такой сервис??
 
 =======
+=======
+>>>>>>> Stashed changes
 
 <hr>
 {{< img name="images/avatar*" title="NL!A EduAi CEO Дмитрий Марков" class="article-image">}}
@@ -26,6 +29,9 @@ teaser = "Первая часть интервью с CEO Neuro Lab! Algorithms 
 
 #### - Недавно Neuro Lab! Algortihms запустили бесплатный сервис <a href="https://nla-eduquiz.eduai.pro/" target="_blank">EduQuiz</a> для организации тестирования учеников через сотовые телефоны. Вопрос в лоб: а людям нужен такой сервис??
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 \- Нам - нужен. В нашей компании большинство сотрудников - практикующие преподаватели (НГУ). Все наши продукты, позволяющие повысить качество учебного процесса, мы, в первую очередь, делаем для себя и обкатываем в своей практике
 
