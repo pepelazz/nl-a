@@ -12,7 +12,7 @@ title="Neuro Lab! Algorithms"
 Мы разрабатываем и постоянно совершенствуем продукты, которые позволяют нашим клиентам эффективно и результативно решать задачи по обучению и аттестации своих сотрудников, повышая качество своих бизнес-процессов, бизнеса в целом
 <br><br>
 <hr><br>
-#### Цифровой курс "Основы финансов"
+## Цифровой курс "Основы финансов"
 
 <br>
 В 2014 году мы вывели на рынок цифрового образования наш первый продукт - массовый открытый онлайн курс <a href="http://osnovi-finansov.ru/">“Основы финансов”</a>
@@ -29,7 +29,7 @@ title="Neuro Lab! Algorithms"
 <br><br>
 <hr>
 <br><br>
-#### Платформа образовательных чат-ботов NL!A EduBot
+## Платформа образовательных чат-ботов NL!A EduBot
 <br>
 В 2016 мы вывели на рынок платформу образовательных чат-ботов NL!A EduBot
 
@@ -47,7 +47,7 @@ title="Neuro Lab! Algorithms"
 <br><br>
 <hr><br>
 
-#### Цифровая образовательная платформа EduAi
+## Цифровая образовательная платформа EduAi
 <br>
 
 В 2017 мы вывели на рынок нашу передовую разработку - цифровую образовательную платформу <a href="/eduai">EduAi</a>
@@ -58,7 +58,7 @@ title="Neuro Lab! Algorithms"
 {{< img name="3course*" title="NL!A EduBot КИвО" class="article-image">}}
 <br>
 
-<b>Ключевые отличительные особенности</b> платформы <a href="/eduai">EduAi</a>…
+<b>Ключевые отличительные особенности</b> платформы <a href="/eduai" target="_blank">EduAi</a>…
 
 … <b>для менеджеров образовательных программ</b>:
 
@@ -72,17 +72,51 @@ title="Neuro Lab! Algorithms"
 
 … <b>для обучающихся</b> - предельно комфортный режим обучения через мобильный телефон
 
-<blockquote>По результатам практического использования в компаниях из различных отраслей Цифровая образовательная платформа <a href="/eduai">EduAi</a> зарекомендовала себя как <a href="/blog/eduai_case_foodfactory/">эффективный инструмент системы менеджмента качества бизнеса</a></blockquote>
+<blockquote>По результатам практического использования в компаниях из различных отраслей Цифровая образовательная платформа <a href="/eduai" target="_blank">EduAi</a> зарекомендовала себя как <a href="/blog/eduai_case_foodfactory/" target="_blank">эффективный инструмент системы менеджмента качества бизнеса</a></blockquote>
 
-Кейс: <a href="/blog/eduai_case_foodfactory/">результаты применения EduAi в федеральной компании-производителе пищевых продутков</a>
+Кейс: <a href="/blog/eduai_case_foodfactory/" target="_blank">результаты применения EduAi в федеральной компании-производителе пищевых продутков</a>
 
 <br>
 <hr>
 <br>
 
-<blockquote>Если вы заинтересованы в внедрении системы цифрового обучения сотрудников вашей компании - свяжитесь с нами и мы с радостью обсудим с вами детали</blockquote>
+## Сервис цифрового обучения NL!A EduQuiz
+<br>
+В 2018 мы запустили массовый бесплатный сервис цифрового обучения <a href="https://eduquiz.ru/" target="_blank">NL!A EduQuiz</a>
 
-<b><a href="mailto:boss@nl-a.ru">Дмитрий Марков</a></b>
+<br>
+{{< img name="eduquiz*" title="NL!A EduQuiz" class="article-image">}}
+<br>
+
+Сервис <a href="https://eduquiz.ru/" target="_blank">NL!A EduQuiz</a> предназначен для учителей, преподавателей и организаторов тренингов
+
+Сервис <a href="https://eduquiz.ru/" target="_blank">NL!A EduQuiz</a> позволяет организовывать тестирование обучающихся через их сотовые телефоны
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/67NGB1TVifY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br><br>    
+Уникальная фишка сервиса <a href="https://eduquiz.ru/" target="_blank">NL!A EduQuiz</a> - для создания тестов (заданий) учителям требуется всего лишь несколько секунд
+
+<br>
+{{< img name="creat*" title="NL!A EduQuiz" class="article-image">}}
+<br>
+
+<br><br><br>    
+Сервис <a href="https://eduquiz.ru/" target="_blank">NL!A EduQuiz</a> позволяет получать учителям отчетность и аналитику по результатам тестирования в режиме реального времени на свой телефон, а также экран проектора в аудитории    
+
+<br>
+{{< img name="rating*" title="NL!A EduQuiz" class="article-image">}}
+<br>
+
+Сообщество пользователей сервиса <a href="https://eduquiz.ru/" target="_blank">NL!A EduQuiz</a>, а также библиотека готовых тестов - <a href="https://vk.com/eduquiz" target="_blank">по ссылке</a>
+
+<br>
+<hr>
+<br>
+
+### <blockquote>Если вы заинтересованы в внедрении системы цифрового обучения сотрудников вашей компании - свяжитесь с нами и мы с радостью обсудим с вами детали</blockquote>
+
+<b><b><b><a href="mailto:boss@nl-a.ru">Дмитрий Марков</a></b>
 
 CEO, Neuro Lab! Algorithms
 
