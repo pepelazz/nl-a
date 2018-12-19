@@ -29,6 +29,12 @@ Paginate = 10
     identifier = "eduquiz"
     url = "/eduquiz/"
 [[menu.main]]
+    name = "МООС \"Основы финансов\""
+    weight = -100
+    parent = "product"
+    identifier = "osnovi_finansov"
+    url = "/blog/osnovi_finansov/"
+[[menu.main]]
     name = "БЛОГ"
     weight = 10
     url = "/blog/"
