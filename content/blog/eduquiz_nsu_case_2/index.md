@@ -9,8 +9,6 @@ teaser = "Профессор НГУ Маркова  Вера Дмитриевн�
 
 +++
 
-<a href="https://eduquiz.ru/" target="_blank">EduQuiz</a>
-
 {{< img name="images/1*" title="NL!A EduQuiz ЭФ НГУ" class="article-image">}}
 {{< img name="images/2*" title="NL!A EduQuiz ЭФ НГУ" class="article-image">}}
 {{< img name="images/3*" title="NL!A EduQuiz ЭФ НГУ" class="article-image">}}
