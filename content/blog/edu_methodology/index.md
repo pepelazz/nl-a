@@ -10,15 +10,27 @@ teaser = "Презентация с ключевыми тезисами о ме�
 +++
 
 {{< img name="images/1*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/2*" title="NL!A Методология цифрового обучения" alt=""class="article-image">}}
+<br><hr><br>
 {{< img name="images/3*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/4*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/5*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/6*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/7*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/8*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/9*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/10*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/11*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/12*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
+<br><hr><br>
 {{< img name="images/13*" title="NL!A Методология цифрового обучения" alt="" class="article-image">}}
