@@ -67,9 +67,11 @@
             }
         },
         mounted() {
+            // ссылка для узнавания id spreadsheet
+            // https://spreadsheets.google.com/feeds/worksheets/1LjQN1-P3qRBzkn3v3QRtnEEhjWPANR5WTmkpuMkY0dQ/private/full
             let that = this
             axios
-                .get('https://spreadsheets.google.com/feeds/list/1LjQN1-P3qRBzkn3v3QRtnEEhjWPANR5WTmkpuMkY0dQ/od6/public/values?alt=json')
+                .get('https://spreadsheets.google.com/feeds/list/1LjQN1-P3qRBzkn3v3QRtnEEhjWPANR5WTmkpuMkY0dQ/o125ii0/public/values?alt=json')
                 .then(res => {
                     this.data = _.map(res.data.feed.entry, (v => {
                         const points = +v.gsx$points.$t + +v.gsx$task.$t
