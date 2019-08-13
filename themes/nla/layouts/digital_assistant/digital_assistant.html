@@ -1,0 +1,58 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<section class="page-header page-header-xs">
+    <div class="container" style="margin-top: 10px; margin-bottom: -10px">
+        <ol class="breadcrumb breadcrumb-inverse">
+            <li><a href="/">NL!A</a></li>
+            <li class="active">Digital Assistant</li>
+        </ol>
+    </div>
+</section>
+<!-- /PAGE HEADER -->
+
+<!-- -->
+<section class="p-0">
+    <div class="container mt-20">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 order-sm-1 order-md-1 order-lg-1">
+                <div class="side-nav mb-60">
+
+                    <div class="side-nav-head">
+                        <button class="fa fa-bars"></button>
+                        <!--<h4>ДОКУМЕНТАЦИЯ</h4>-->
+                    </div>
+
+                    <ul class="list-group list-group-bordered list-group-noicon uppercase">
+                        {{ range .Site.Pages }}
+                        {{ if eq .Type "digital_assistant"}}
+                        {{ if eq .Layout "single"}}
+                        <li class="list-group-item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                        {{ end }}
+                        {{ end }}
+                        {{ end }}
+                    </ul>
+
+                </div>
+            </div>
+            <div class="col-lg-9 col-md-9 order-sm-2 order-md-2 order-lg-2">
+                <ul class="list-group">
+                    <p class="lead"><b>Digital Assistant <font color="orange">NL</font>!<font color="orange">A</font></b>: цифровой помощник для управления бизнесом
+										
+					<br><br>Доступная возможность по UBER`ризации процессов бизнеса<br><br>Документация о сервисе:
+					<br><br>1. <a href="/digital-assistant/concept/" target="_blank">Цифровой помощник NL!A: как это работает</a>
+					<br><br>2. <a href="/digital-assistant/implementation/" target="_blank">Области применения Цифрового помощника NL!A</a>
+					<br><br>3. <a href="/digital-assistant/cases/" target="_blank">Примеры (кейсы) применения Цифрового помощника NL!A</a>
+					<br><br>5. <a href="/digital-assistant/getting_started/" target="_blank">Стоимость и этапы запуска</a>
+					<br><br>5. <a href="/digital-assistant/faq/" target="_blank">FAQ. Ответы на часто задаваемые вопросы</a>
+					
+					</p>
+					
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+{{ partial "footer.html" . }}
