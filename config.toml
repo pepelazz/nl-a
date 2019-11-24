@@ -17,6 +17,18 @@ Paginate = 10
     identifier = "product"
     url = "/post/"
 [[menu.main]]
+    name = "Цифровой помощник NL!A"
+    weight = -300
+    parent = "product"
+    identifier = "digital_assistant"
+    url = "/blog/digital_assistant_intro/"
+[[menu.main]]
+    name = "Битрикс24"
+    weight = -200
+    parent = "product"
+    identifier = "bitrix24"
+    url = "/bitrix24/"
+[[menu.main]]
     name = "EduAi"
     weight = -100
     parent = "product"
