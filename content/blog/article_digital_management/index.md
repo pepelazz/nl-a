@@ -11,7 +11,9 @@ teaser = "Технический директор NL!A Алексей Марко
 
 <i>Статья подготовлена совместно с Доктором экономических наук <a href="https://www.ieie.su/persons/markova-vd.html" target="_blank">- Марковой Верой Дмитриевной</a>
 
-<a href="https://maginnov.ru/ru/zhurnal/arhiv/2019/innovacii-n7-2019/cifrovizaciya-ili-upravlenie-na-osnove-potoka-dannyh" target="_blank">Статья опубликована в Журнале "Инновации"</a></i>
+<a href="https://maginnov.ru/ru/zhurnal/arhiv/2019/innovacii-n7-2019/cifrovizaciya-ili-upravlenie-na-osnove-potoka-dannyh" target="_blank">Статья опубликована в Журнале "Инновации"</a>
+
+<a href="http://datalab-nsu.ru/materials" target="_blank">Также по данной тематике мы публикуем материалы на сайте Технологической Лаборатории data-driven менеджмента</a></i>
 
 ### Аннотация
 
