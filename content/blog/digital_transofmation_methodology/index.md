@@ -86,6 +86,10 @@ teaser = "Базовая методология для начала процес
 
 Построив модель (назвав объекты управления, установив связи и атрибуты объектов) появляется шанс создать информационную (цифровую) систему для сбора и доставки необходимой информации для принятия управленческих решений
 
+Пример построения модели: концептуальная модель данных на примере школы (образовательного процесса):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aDQRurxGiYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 p.s. Если у вас есть запрос на построение "карты вашей компании" - <a href="mailto:boss@nl-a.ru">смело обращайтесь к нам</a>. С радостью пообщаемся и проконсультируем (boss@nl-a)
 
 Telegram - <a href="https://t.me/MarkovD">MarkovD</a>
