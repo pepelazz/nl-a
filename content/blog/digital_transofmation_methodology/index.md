@@ -90,6 +90,10 @@ teaser = "Базовая методология для начала процес
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aDQRurxGiYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Пример: модель данных системы для учета рабочего времени сотрудников
+
+{{< img name="images/model*" title="data-drive решения NL!A. Методология цифровой траснформации" alt="data-drive решения NL!A. Методология цифровой траснформации" class="article-image">}}
+
 p.s. Если у вас есть запрос на построение "карты вашей компании" - <a href="mailto:boss@nl-a.ru">смело обращайтесь к нам</a>. С радостью пообщаемся и проконсультируем (boss@nl-a)
 
 Telegram - <a href="https://t.me/MarkovD">MarkovD</a>
