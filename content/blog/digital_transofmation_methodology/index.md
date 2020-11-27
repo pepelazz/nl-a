@@ -88,4 +88,4 @@ teaser = "Базовая методология для начала процес
 
 p.s. Если у вас есть запрос на построение "карты вашей компании" - <a href="mailto:boss@nl-a.ru">смело обращайтесь к нам</a>. С радостью пообщаемся и проконсультируем (boss@nl-a)
 
-Telegram - <a href="t.me/MarkovD">MarkovD</a>
+Telegram - <a href="https://t.me/MarkovD">MarkovD</a>
